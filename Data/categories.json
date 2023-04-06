@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "1",
+    "category": "Cake",
+    "category_img": "https://i.ibb.co/KVSbhLT/cat-13.png"
+  },
+  {
+    "_id": "2",
+    "category": "Apple",
+    "category_img": "https://i.ibb.co/7NJ3YDs/cat-9.png"
+  },
+  {
+    "_id": "3",
+    "category": "Snacks",
+    "category_img": "https://i.ibb.co/tqLxdmq/cat-3.png"
+  },
+  {
+    "_id": "4",
+    "category": "Vegetables",
+    "category_img": "https://i.ibb.co/r6jpmbC/cat-1.png"
+  },
+  {
+    "_id": "5",
+    "category": "Coffe & Tea",
+    "category_img": "https://i.ibb.co/mGm6KKQ/cat-14.png"
+  },
+  {
+    "_id": "6",
+    "category": "Frozen Foods",
+    "category_img": "https://i.ibb.co/mqh8brh/category-image4-removebg-preview.png"
+  },
+  {
+    "_id": "7",
+    "category": "Meats & Seafood",
+    "category_img": "https://i.ibb.co/R0FGtdQ/meat-1-removebg-preview.png"
+  },
+  {
+    "_id": "8",
+    "category": "Household Needs",
+    "category_img": "https://i.ibb.co/3SP2Mtj/household-1-removebg-preview.png"
+  },
+  {
+    "_id": "9",
+    "category": "Grocery & Staples",
+    "category_img": "https://i.ibb.co/2dk14JP/category-image2-removebg-preview.png"
+  }
+]

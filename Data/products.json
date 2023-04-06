@@ -1,0 +1,198 @@
+[
+  {
+    "_id": "1",
+    "category_id": "1",
+    "image": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/popular+cake+/coffee-cake.jpg",
+    "title": "Coffee Cake",
+    "details": "We begin our countdown with coffee cakes at number ten. This cake comes as a perfect dessert for coffee lovers. They are delicious and are available in multiple coffee flavours such as Irish and Mocha. Now these are not the same as coffee dry cakes which were not flavoured with coffee but were the perfect accompanist for an evening cup of joe. The coffee cake flavours mentioned here are flavoured with coffee essence and flavourings.",
+    "ratings": "4.8",
+    "price": "$69.21"
+  },
+  {
+    "_id": "2",
+    "category_id": "1",
+    "image": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/popular+cake+/banana-cake.jpg",
+    "title": "Banana Cake",
+    "details": "The cake flavour that makes you go bananas is the banana cake at the ninth spot. It has a moist texture and an incredibly strong taste. As the cake flavours name suggests, banana cakes have been developed from the old school recipe of banana bread, further modified with layers of favouring and high sweetness content. Many healthy versions of this cake now exist, making it a popular tea time and healthy snacks choice!",
+    "ratings": "4.9",
+    "price": "$53.56"
+  },
+  {
+    "_id": "3",
+    "category_id": "1",
+    "image": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/popular+cake+/funfettie-cake.jpg",
+    "title": "Funfetti cake",
+    "details": "Funfetti is a fun-filled and joyous cake that has garnered lots of love from people and hence has also found the eighth spot in this list. Brimming with colourful sprinklers, inside and out, Funfetti is a great birthday cake. Agreed? Perhaps that is the reason why funfetti cakes are one of the best cake flavours and very popular among children. And the best part about this cake is its celebratory aesthetics. Being a part of celebratory desserts, this cake can also be customised in various layers of flavouring, making it a popular choice in the cake flavours list.",
+    "ratings": "4.7",
+    "price": "$72.39"
+  },
+  {
+    "_id": "4",
+    "category_id": "1",
+    "image": "https://floweraura-blog-img.s3.ap-south-1.amazonaws.com/popular+cake+/pineapple-cake.jpg",
+    "title": "Pineapple Upside Down cake",
+    "details": "Pineapple is an excellent ingredient for desserts, and hence, the upside-down pineapple cake being a part of this list at number seven doesn’t come as a surprise. The cake throws a refreshing taste into your mouth, and it looks just as beautiful.",
+    "ratings": "4.6",
+    "price": "$89.36"
+  },
+
+  {
+    "_id": "5",
+    "category_id": "2",
+    "image": "https://cdn.tasteatlas.com//images/ingredients/e0f90eebb885409c83f6d57b39605711.jpg?w=905&h=510",
+    "title": "Idared Apples",
+    "details": "Idared is an apple variety that was first developed in Idaho. It's a cross between the Jonathan and Wagener breeds. The apples are medium-sized with a bright red and green-red color. The flesh is juicy, crisp, and firm, while the flavors are sweet, tart, aromatic, and refreshing.",
+    "ratings": "4.7",
+    "price": "$6.20"
+  },
+  {
+    "_id": "6",
+    "category_id": "2",
+    "image": "https://cdn.tasteatlas.com//images/ingredients/86daeea8e07f40069975a24b7ba0f706.jpg?w=905&h=510",
+    "title": "McIntosh Apples",
+    "details": "McIntosh is an apple variety with origins in Dundela, Upper Canada in 1811, when it was discovered by John McIntosh, hence the name. Commercial production started in 1870. These apples have a vivid red color brushed with bright green blushes and often white spots.",
+    "ratings": "4.8",
+    "price": "$6.08"
+  },
+  {
+    "_id": "7",
+    "category_id": "2",
+    "image": "https://cdn.tasteatlas.com//images/ingredients/4cd2d365461a43719d3ed14c00dcd158.jpg?w=905&h=510",
+    "title": "Golden Delicious Apples",
+    "details": "Golden Delicious is an apple variety that's believed to be a product of unintentional breeding between Grimes Golden and Golden Reinette. It has no connection to the Red Delicious. The original tree was discovered in West Virginia at the end of the 19th century, and it's been the official state fruit since 1995.",
+    "ratings": "4.9",
+    "price": "$9.09"
+  },
+  {
+    "_id": "8",
+    "category_id": "2",
+    "image": "https://cdn.tasteatlas.com//images/ingredients/96fe8f4e6ae049e087576dee7d95d8e4.jpg?w=905&h=510",
+    "title": "Red Delicious",
+    "details": "Red Delicious is one of the world's most common apple varieties, dating back to 1880, when it was discovered by Jesse Hiatt in Iowa. The apples were first known as Hawkeye, then Stark Delicious, and it wasn't until the emergence of Golden Delicious that these apples were renamed Red Delicious.",
+    "ratings": "4.9",
+    "price": "$7.05"
+  },
+
+  {
+    "_id": "9",
+    "category_id": "3",
+    "image": "https://static.thetoptens.com/img/lists/23616.jpg",
+    "title": "Potato Chips",
+    "details": "I love the chips and is also fantastic. They used as snack to give a little time for staving. Much people said is legend and made from potatoes like in France, USA, Italy, Germany is the best and many more.",
+    "ratings": "4.6",
+    "price": "$2.00"
+  },
+
+  {
+    "_id": "10",
+    "category_id": "3",
+    "image": "https://static.thetoptens.com/img/lists/38112.jpg",
+    "title": "Oreos",
+    "details": "Oreos are 100 years old, have a chocolate outside and a creamy inside, are milk's favorite cookie, have been referenced numerous times in pop culture, and are the best cookie ever. Let's vote for Oreos! Also, chips, fruit, cereal, and granola bars are too bland. Whoever took the time to think of 1 cookie to submit is genius",
+    "ratings": "4.9",
+    "price": "$2.09"
+  },
+  {
+    "_id": "11",
+    "category_id": "3",
+    "image": "https://static.thetoptens.com/img/lists/96233.jpg",
+    "title": "Cookie",
+    "details": "In the dark while everyone else is asleep except me and my dog. Yes this is true. Then I get up and get some milk from the fridge, liking the loud noise from the T.V. blend in with the small sounds from my iPad. Any cookies are really delicious, especially the freshly baked ones, straight from the oven. Like sugar, chocolate chip, butter, pecan, oatmeal raisin, or peanut butter... Definitely one of my favorites.",
+    "ratings": "4.9",
+    "price": "$7.05"
+  },
+
+  {
+    "_id": "12",
+    "category_id": "4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2raGC7m2Psn2_xRfxSJtBuckFANDwd-8nM_wIf1h&s",
+    "title": "Broccoli",
+    "details": "It belongs to the cruciferous family where cabbage, cauliflower, and kale belong. This winter vegetable’s name is quite common across the world. It offers Vitamin K, C, and a lot of fibre to your food. It is also known for its anti-inflammatory and antioxidant effects. It protects your cells from DNA damage and reduces the level of free radicals in your tissues.",
+    "ratings": "4.8",
+    "price": "$1.00"
+  },
+  {
+    "_id": "13",
+    "category_id": "4",
+    "image": "https://www.shutterstock.com/image-photo/fresh-green-pea-pod-beans-260nw-1116757043.jpg",
+    "title": "Peas",
+    "details": "Peas are the favourite of many. These green tasty seeds can be consumed in soups, curries, and even raw. Peas are great sources of vitamin A, K, and C and certain Vitamin Bs. They also add dietary fibre to your meals giving your digestive system the right boost.",
+    "ratings": "4.8",
+    "price": "$1.10"
+  },
+  {
+    "_id": "14",
+    "category_id": "4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5tclaT_EWBR9H4BCrwtkTjMn3Bydd1aBkW9Rnqehe&s",
+    "title": "Tomatoes",
+    "details": "Tomatoes are a good source of Vitamin C and lycopene. Lycopene is known for its antioxidant properties. Research says that this compound is capable of fighting prostate cancer. It also prevents the development of macular degeneration from occurring due to age. Consuming tomatoes, raw or cooked, can add dietary benefits that help us to ward off free radicals from our tissues.",
+    "ratings": "4.9",
+    "price": "$1.08"
+  },
+
+  {
+    "_id": "15",
+    "category_id": "5",
+    "image": "https://www.homefortheharvest.com/wp-content/uploads/2021/07/118775938_l-1024x683-1.jpeg",
+    "title": "Honeoye Strawberry",
+    "details": "Honeoye strawberries are day-neutral June-bearing strawberries. They’re large berries that range in color from bright orange-red to red. They’re true to their name as they taste sweet, like honey. This type of strawberry produces a lot of berries, as it has a high yield and a long growing season",
+    "ratings": "4.8",
+    "price": "$6.23"
+  },
+  {
+    "_id": "16",
+    "category_id": "5",
+    "image": "https://strawberryplants.org/wp-content/uploads/earliglow-strawberry-variety-info-and-grow-guide-fb.jpg",
+    "title": "Earliglow Strawberry",
+    "details": "Earliglow is a June-bearing strawberry that’s true to its name because it produces berries sooner than any other strawberry. Its berry size is medium to large, with a deep red color and a shape that’s symmetrical and conical. They have a sweet flavor that’s great for canning.",
+    "ratings": "4.8",
+    "price": "$3.25"
+  },
+
+  {
+    "_id": "17",
+    "category_id": "5",
+    "image": "https://www.homefortheharvest.com/wp-content/uploads/2021/07/ozark-beauty-strawberries.jpg",
+    "title": "Ozark Beauty",
+    "details": "Ozark Beauty is extremely popular everbearing variety of strawberry. The strawberries produced are sweet, red, and rather large for an everbearing variety. They also feature several large yields several times a year – one in early spring and one later in the season, with a few berries produced in between.",
+    "ratings": "4.8",
+    "price": "$2.75"
+  },
+
+  {
+    "_id": "18",
+    "category_id": "6",
+    "image": "https://i.ibb.co/mqh8brh/category-image4-removebg-preview.png",
+    "title": "Caramel Cone Ice Cream",
+    "details": "Vivamus adipiscing nisl ut dolor dignissim semper. Nulla luctus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent",
+    "ratings": "4.8",
+    "price": "$42.96"
+  },
+  {
+    "_id": "19",
+    "category_id": "7",
+    "image": "https://i0.wp.com/lombardibrothersmeats.com/wp-content/uploads/2020/10/CAB-Beef-Stew-Meat.jpg?fit=1200%2C900&ssl=1",
+    "title": "Angus Beef Stew Meat",
+    "details": "Well-trimmed beef, cut into 3/4 to 1 1/2-inch pieces that is covered with liquid and simmered slowly in a covered pot. Commonly cut from the sirloin but can come from any tender cut.",
+    "ratings": "4.7",
+    "price": "$96.07"
+  },
+  {
+    "_id": "20",
+    "category_id": "8",
+    "image": "https://cdn.shopify.com/s/files/1/3002/1936/products/USA-WarriorBlend4-750g-Unf-Front.jpg?v=1667928566&width=520",
+    "title": "Warrior Blend Organic",
+    "details": "Warrior Blend fuses the power of several rich protein sources into one smooth, great-tasting formula that is overwhelmingly superior to the individual components alone. Medium-chain triglycerides from coconut work synergistically with the other ingredients to create a unique vegan protein exceptionally rich in amino acids and BCAAs.",
+    "ratings": "4.7",
+    "price": "$59.36"
+  },
+  {
+    "_id": "21",
+    "category_id": "9",
+    "image": "https://d36rz30b5p7lsd.cloudfront.net/640/studio/assets/v1630331419301_842414103/35563708_71000319_Heinz_TK_Glass_342g.png",
+    "title": "Heinz Tomato Ketchup",
+    "details": "A Kraft Heinz spokesperson told The Mirror: “Like the rest of the food industry, we continue to face significantly increased production costs – whether it's ingredients, energy, or packaging – and rising inflation.",
+    "ratings": "4.6",
+    "price": "$50.36"
+  }
+]
